@@ -1,0 +1,5 @@
+database\FactoryConnection.class
+database\Server.class
+model\Product.class
+model\IProduct.class
+model\ClientRMI.class
